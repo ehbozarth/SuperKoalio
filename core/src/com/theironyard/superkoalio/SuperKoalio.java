@@ -122,7 +122,6 @@ public class SuperKoalio extends ApplicationAdapter {
         else{
             batch.draw(img, x + DRAW_WIDTH,y, DRAW_WIDTH * -1, DRAW_HEIGHT);
         }
-
         batch.end();
     }//End of Draw Method
 
